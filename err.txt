@@ -1,0 +1,2 @@
+ls: cannot access 'how': No such file or directory
+ls: cannot access 'what': No such file or directory
