@@ -1,0 +1,14 @@
+# first we need to create a file using:
+
+nano script_name.sh
+#remember to add .sh at the end for it to act like a script
+
+# write all the commands sequentially and save it
+
+#now its the time to make this script executable the command is:
+
+chmod +x script_name.sh
+
+# now that the script is executable lets just run it, be in the same director:
+
+./script_name.sh
